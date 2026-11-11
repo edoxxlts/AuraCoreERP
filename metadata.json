@@ -1,0 +1,6 @@
+{
+  "name": "AuraCore ERP - Sistema ERP, Cobranzas, POS e Inventario",
+  "description": "AuraCore ERP - Sistema integral con gestor de cobranzas, emisión de recibos de pago y tickets POS, control de inventario y módulo de consultas de ventas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
